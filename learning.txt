@@ -1,1 +1,2 @@
+What I have learned from this course
 am trying to catch up with git
